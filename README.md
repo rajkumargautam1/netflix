@@ -1,6 +1,6 @@
 # Netflix Front Page Clone
 
-![Netflix Clone](https://your-image-url.com)
+![Netflix Clone]-----------(https://rajkumargautam1.github.io/netflix/)
 
 ## Overview
 
@@ -20,10 +20,6 @@ The navigation bar mimics the Netflix style, with a clean design featuring the N
 
 The hero section includes a large background image with text overlay, resembling the hero section on the original Netflix homepage. The design encourages visual appeal and engagement.
 
-### 4. Movie Categories
-
-Below the hero section, movie categories are presented in a grid layout. Each category showcases movie thumbnails with a hover effect for an interactive experience.
-
 ### 5. Footer
 
 The footer replicates the Netflix footer with links to various sections, social media icons, and copyright information.
@@ -41,10 +37,6 @@ The footer replicates the Netflix footer with links to various sections, social 
 
 Feel free to customize and enhance the code to further develop additional pages or features. If you have any suggestions or improvements, don't hesitate to contribute.
 
-## Contributors
-
-- [Your Name](https://github.com/your-username)
-
 ## License
 
-This Netflix Front Page Clone is open-source and available under the [MIT License](LICENSE).
+This Netflix Front Page Clone is open-source and available under the [RajKumarGautam](LICENSE).
