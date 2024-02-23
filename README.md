@@ -37,6 +37,4 @@ The footer replicates the Netflix footer with links to various sections, social 
 
 Feel free to customize and enhance the code to further develop additional pages or features. If you have any suggestions or improvements, don't hesitate to contribute.
 
-## License
 
-This Netflix Front Page Clone is open-source and available under the [RajKumarGautam](LICENSE).
